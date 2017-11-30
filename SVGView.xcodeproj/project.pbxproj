@@ -18,6 +18,7 @@
 		833EDEE91FCFC3180027E0C6 /* c3.svg in Resources */ = {isa = PBXBuildFile; fileRef = 833EDEE51FCFC3180027E0C6 /* c3.svg */; };
 		833EDEEA1FCFC3180027E0C6 /* CMCSVGView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833EDEE61FCFC3180027E0C6 /* CMCSVGView.swift */; };
 		833EDEEB1FCFC3180027E0C6 /* linkedin.svg in Resources */ = {isa = PBXBuildFile; fileRef = 833EDEE71FCFC3180027E0C6 /* linkedin.svg */; };
+		833EDEEE1FCFD9BB0027E0C6 /* UIScrollView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833EDEED1FCFD9BB0027E0C6 /* UIScrollView+Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		833EDEE51FCFC3180027E0C6 /* c3.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = c3.svg; sourceTree = "<group>"; };
 		833EDEE61FCFC3180027E0C6 /* CMCSVGView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CMCSVGView.swift; sourceTree = "<group>"; };
 		833EDEE71FCFC3180027E0C6 /* linkedin.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = linkedin.svg; sourceTree = "<group>"; };
+		833EDEED1FCFD9BB0027E0C6 /* UIScrollView+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIScrollView+Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 			isa = PBXGroup;
 			children = (
 				833EDEE51FCFC3180027E0C6 /* c3.svg */,
+				833EDEED1FCFD9BB0027E0C6 /* UIScrollView+Extensions.swift */,
 				833EDEE41FCFC3180027E0C6 /* CMCPullToRefreshControl.swift */,
 				833EDEE61FCFC3180027E0C6 /* CMCSVGView.swift */,
 				833EDEE71FCFC3180027E0C6 /* linkedin.svg */,
@@ -283,6 +286,7 @@
 			files = (
 				833EDEB91FCFC2F20027E0C6 /* ViewController.swift in Sources */,
 				833EDEEA1FCFC3180027E0C6 /* CMCSVGView.swift in Sources */,
+				833EDEEE1FCFD9BB0027E0C6 /* UIScrollView+Extensions.swift in Sources */,
 				833EDEE81FCFC3180027E0C6 /* CMCPullToRefreshControl.swift in Sources */,
 				833EDEB71FCFC2F20027E0C6 /* AppDelegate.swift in Sources */,
 			);
